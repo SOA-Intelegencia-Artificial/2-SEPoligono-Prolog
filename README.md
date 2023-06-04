@@ -2,16 +2,18 @@ SISTEMA EXPERTO DE POLÍGONOS.
 ----------------------------
 
 Autor:  Sebastián Asunción.
+
 Fecha:  Mayo del 2023.
 
 Este programa esta desarrollado en Prolog (SWI-Prolog) y se ha programado un sistema experto para averiguar el tipo de polígono.
 El sistema experto sólo tratará los polígonos de 3 y 4 lados, para el resto de lados solo contestara true.
 
 El sistema realiza las siguientes preguntas:
-  Número de lados.
+
+  1-Número de lados.
   Si se contesto 3 lados, el sistema preguntará:
-     Lados iguales.
-     Existen ángulo recto.
+  2-Lados iguales.
+  3-Existen ángulo recto.
 
   Si se contesto 4 lados, el sistema preguntará:
      Cuantos lados paralelos tiene.
