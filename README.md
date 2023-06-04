@@ -20,8 +20,11 @@ El sistema realiza las siguientes preguntas:
   Si se contesto 4 lados, el sistema preguntará:
   
   2-Cuantos lados paralelos tiene.
+  
   3-Tienen ángulo recto.
+  
   4-Cuantos lados iguales tiene.
+  
 
 El sistema contestará indicando que tipo de polígono es.  Puede dar varias polígonos como respuesta.
 
